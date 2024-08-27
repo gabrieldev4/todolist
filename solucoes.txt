@@ -1,0 +1,13 @@
+Function pesquisar
+    posso criar um array de objetos e algumas funções 
+
+    add () <- adicionar objetos e lê arquivos
+
+    read() <- passa por todos os objetos e cria-os
+
+    atualiza() <- atualiza o objeto selecionado e lê arquivos
+ 
+    filtra() <- filtra objetos por estados
+
+    pesquisa() <- pesquisa por palavras das tarefas
+

@@ -1,0 +1,7 @@
+#HTML  
+    1° Invés de inserir o código js ao final do html, usamos ele no head com a propriedade defer
+
+#CSS
+    2° Clicando no botão o evento é disparado mas se clicar no icone não, para isso usamos a propriedade pointer-event:none no css
+#JS
+    1° Dividir o js em seleção, função e eventos
